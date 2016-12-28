@@ -3,5 +3,7 @@
  */
 public class Start {
 
+        public static fargo(){
 
+        }
 }
